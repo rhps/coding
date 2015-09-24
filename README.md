@@ -1,4 +1,6 @@
 # coding
-Codingan Awak Coy
+Source Code
 
-Isinya ini adalah Codingan awak yang sedang belajar.
+cpp - Source Code bahasa pemrograman C++ dari beberapa problem di salah satu website Competitive Programming
+
+java - Source Code bahasa pemrograman Java, yang merupakan bahan pembelajaran dari buku Java.
